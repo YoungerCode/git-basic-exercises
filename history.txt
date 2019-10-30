@@ -1,0 +1,1000 @@
+  981  git push -u origin master
+  982  ls
+  983  git remote add origin https://github.com/Oba-Keng/form-template-node.js.git
+  984  git push -u origin master
+  985  git commit -m "Task2"
+  986  git remote add origin https://github.com/Oba-Keng/form-template-node.js.git
+  987  git push -u origin master
+  988  git remote add origin https://github.com/Oba-Keng/form-template-node.js.git
+  989  git push -u origin master
+  990  git add *
+  991  git remote add origin https://github.com/Oba-Keng/Form-Template-Node.js.git
+  992  git push -u origin master
+  993  git remote add origin https://github.com/Oba-Keng/Form-Template-Node.js.git
+  994  git push -u origin master
+  995  ls
+  996  cd ..
+  997  ls
+  998  cd formTemplate
+  999  ls
+ 1000  git init
+ 1001  git add *
+ 1002  git commit -m "task2"
+ 1003  git remote add origin https://github.com/Oba-Keng/Form-Template-Node.js.git
+ 1004  git push -u origin master
+ 1005  cd ..
+ 1006  ls
+ 1007  cd formTemplate
+ 1008  npm run dev
+ 1009  cd ..
+ 1010  ls
+ 1011  cd formTemplate
+ 1012  ls
+ 1013  npm run dev
+ 1014  node app.js
+ 1015  cd ..
+ 1016  ls
+ 1017  cd nodeApp
+ 1018  ls
+ 1019  npm run dev
+ 1020  ls
+ 1021  cd ..
+ 1022  ls
+ 1023  cd nodeApp
+ 1024  ls
+ 1025  git add *
+ 1026  git commit -m "task2"
+ 1027  git remote add origin https://github.com/Oba-Keng/Form-Template-Node.js.git
+ 1028  git push -u origin master
+ 1029  git push  --help
+ 1030  terminator
+ 1031  ls
+ 1032  cd Desktop
+ 1033  ls
+ 1034  cd nodeApp
+ 1035  ls
+ 1036  git status
+ 1037  cd ..
+ 1038  ls
+ 1039  cd ..
+ 1040  ls
+ 1041  cd Downlaods
+ 1042  cd Downloads
+ 1043  ls
+ 1044  cd Node.js-master/
+ 1045  ls
+ 1046  npm run dev
+ 1047  npm install
+ 1048  ls
+ 1049  ls
+ 1050  cd ..
+ 1051  ls
+ 1052  cd ..
+ 1053  ls
+ 1054  cd ..
+ 1055  ls
+ 1056  cd Desktop
+ 1057  ls
+ 1058  cd nodeApp
+ 1059  ls
+ 1060  npm run dev
+ 1061  npm install nodemon
+ 1062  ls
+ 1063  npm run dev
+ 1064  cd ..
+ 1065  ls
+ 1066  cd formTemplate
+ 1067  ls
+ 1068  npm run dev
+ 1069  npm install nodemon
+ 1070  npm run dev
+ 1071  ls
+ 1072  npm run dev
+ 1073  cd ..
+ 1074  ls
+ 1075  cd ..
+ 1076  ls
+ 1077  cd ..
+ 1078  ls
+ 1079  cd Desktop
+ 1080  ls
+ 1081  cd Desktop
+ 1082  ls
+ 1083  cd weatherApi
+ 1084  ls
+ 1085  npm install express
+ 1086  npm install -g npm
+ 1087  npm install nodemon
+ 1088  terminator
+ 1089  cd Desktop
+ 1090  ls
+ 1091  cd weatherApi
+ 1092  ls
+ 1093  jasmine -v
+ 1094  ls
+ 1095  cd Documents
+ 1096  ls
+ 1097  cd ..
+ 1098  ls
+ 1099  cd Desktop
+ 1100  ls
+ 1101  cd calculator
+ 1102  ls
+ 1103  jasmine
+ 1104  ls
+ 1105  jasmine
+ 1106  ls
+ 1107  npm install --save-dev jasmine
+ 1108  npm install -g npm
+ 1109  npm install npm
+ 1110  ./node_modules/.bin/jasmine init
+ 1111  npm test
+ 1112  ls
+ 1113  jasmine
+ 1114  cd spec
+ 1115  jasmine
+ 1116  ls
+ 1117  cd ..
+ 1118  ls
+ 1119  npm install jasmine
+ 1120  ./node_modules/.bin/jasmine init
+ 1121  ls
+ 1122  jasmine
+ 1123  ls
+ 1124  cd spec
+ 1125  ls
+ 1126  jasmine
+ 1127  cd ..
+ 1128  jasmine
+ 1129  ls
+ 1130  cd ..
+ 1131  ls
+ 1132  cd calculator
+ 1133  jasmine
+ 1134  calculator
+ 1135  jasmine
+ 1136  ls
+ 1137  jasmine
+ 1138  jasmne
+ 1139  jasmine
+ 1140  ls
+ 1141  cd ..
+ 1142  ls
+ 1143  cd calculator
+ 1144  ls
+ 1145  git init
+ 1146  git commit -m "first commit"
+ 1147  git add *
+ 1148  git remote add origin https://github.com/Oba-Keng/Simple-Calculator.git
+ 1149  git status
+ 1150  git add .gitignore
+ 1151  git commit -m "second commit"
+ 1152  git push -u origin master
+ 1153  ls
+ 1154  cd Desktop
+ 1155  ls
+ 1156  mkdir passwordchecker
+ 1157  ls
+ 1158  cd passwordchecker
+ 1159  ls
+ 1160  cd spec
+ 1161  npm install jasmine
+ 1162  npm install npm
+ 1163  ls
+ 1164  cd ..
+ 1165  ls
+ 1166  cd spec
+ 1167  npm install --save-dev jasmine
+ 1168  jasmine init
+ 1169  ls
+ 1170  jasmine
+ 1171  cd ..
+ 1172  jasmine
+ 1173  npx jasmine init
+ 1174  jasmine
+ 1175  ls
+ 1176  cd spec
+ 1177  ls
+ 1178  cd spec
+ 1179  ls
+ 1180  jasmine
+ 1181  cd ..
+ 1182  jasmine
+ 1183  cd ..
+ 1184  ls
+ 1185  jasmine
+ 1186  ls
+ 1187  cd ..
+ 1188  ls
+ 1189  cd passwordchecker
+ 1190  ls
+ 1191  cd spec
+ 1192  ls
+ 1193  jasmine
+ 1194  cd ..
+ 1195  jasmine
+ 1196  ls
+ 1197  cd ..
+ 1198  ls
+ 1199  cd passwordchecker
+ 1200  ls
+ 1201  jasmine
+ 1202  ls
+ 1203  cd Desktop
+ 1204  ls
+ 1205  cd calculator
+ 1206  ls
+ 1207  jasmine
+ 1208  ls
+ 1209  cd ..
+ 1210  ls
+ 1211  cd passwordchecker
+ 1212  ls
+ 1213  jasmine
+ 1214  ls
+ 1215  cd ..
+ 1216  ls
+ 1217  cd MongoDB
+ 1218  ls
+ 1219  npm install mongoose
+ 1220  npm install mongodb
+ 1221  terminator
+ 1222  ls
+ 1223  cd Desktop
+ 1224  ls
+ 1225  cd passwordchecker
+ 1226  ls
+ 1227  jasmine
+ 1228  jupyter notebook
+ 1229  pip3 install seaborn
+ 1230  pip3 install matplotlib.pyplot
+ 1231  clear
+ 1232  pip3 --version
+ 1233  pip3 install matplotlib
+ 1234  git --version
+ 1235  cd ~/Downloads
+ 1236  ls
+ 1237  echo "# lungelo" >> README.md
+ 1238  git init
+ 1239  git add README.md
+ 1240  git commit -m "first commit"
+ 1241  git remote add origin https://github.com/Lungelo-web/lungelo.git
+ 1242  git push -u origin master
+ 1243  git add .
+ 1244  git commit -m "Add all code"
+ 1245  git push
+ 1246  sudo dpkg -i google-chrome-stable_current_amd64.deb
+ 1247  pip install git --user
+ 1248  sudo add-apt-repository ppa:jonathonf/python-3.6
+ 1249  sudo apt-get update
+ 1250  sudo apt-get install python3.6
+ 1251  sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.5 1
+ 1252  sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.6 2
+ 1253  python --version
+ 1254  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.4 1
+ 1255  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.6 2
+ 1256  sudo update-alternatives --config python
+ 1257  sudo update-alternatives  --set python /usr/bin/python3.6
+ 1258  python --version
+ 1259  pip install git
+ 1260  pip install git --user
+ 1261  sudo apt install git
+ 1262  sudo apt upgrade
+ 1263  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+ 1264  pip install git --user
+ 1265  sudo apt install python-pip
+ 1266  python --version
+ 1267  sudo apt upgrade
+ 1268  sudo apt-get update
+ 1269  git clone https://github.com/LordeUnicorn/data_wrangling.git
+ 1270  git config --list
+ 1271  git config user.email 'milpontia.ngwenya@umuzi.org'
+ 1272  cd Desktop
+ 1273  git config user.email 'milpontia.ngwenya@umuzi.org'
+ 1274  cd data_wrangling
+ 1275  git config user.email 'milpontia.ngwenya@umuzi.org'
+ 1276  git config --list
+ 1277  git config user.name 'LordeUnicorn'
+ 1278  git config --list
+ 1279  git add .
+ 1280  git commit -m 'Complete'
+ 1281  git push
+ 1282  git add .
+ 1283  git commit -m 'Complete'
+ 1284  git push
+ 1285  git clone https://github.com/LordeUnicorn/data_wrangling.git
+ 1286  git add .
+ 1287  git commit -m 'Complete'
+ 1288  git push
+ 1289  cd Desktop/data_wrangling/data_wrangling
+ 1290  git add .
+ 1291  git commit -m 'Complete'
+ 1292  git push
+ 1293  cd Desktop
+ 1294  cd /Desktop
+ 1295  cd ..
+ 1296  git clone https://github.com/LordeUnicorn/statistical_thinking.git
+ 1297  cd statistical_thinking
+ 1298  git clone https://github.com/LordeUnicorn/statistical_thinking.git
+ 1299  git add .
+ 1300  git commit -m 'Complete'
+ 1301  git push
+ 1302  python u.py
+ 1303  pip install dash --user
+ 1304  pip install dash-core-components --user
+ 1305  pip install dash-html-components --user
+ 1306  pip install dash==1.2.0
+ 1307  pip install dash-daq==0.1.0
+ 1308  pip install dash_renderer
+ 1309  python3 -m pip install dash
+ 1310  import dash
+ 1311  cd Desktop
+ 1312  python u.py
+ 1313  git clone https://github.com/LordeUnicorn/dashboard.git
+ 1314  cd dashboard
+ 1315  python app.py
+ 1316  pip install plotly
+ 1317  python sike.py
+ 1318  python u.py
+ 1319  python app.py
+ 1320  git add .
+ 1321  git commit -m 'Complete'
+ 1322  git push
+ 1323  pip install scrapy
+ 1324  scrapy shell
+ 1325  pip install beautiful soup
+ 1326  pip install BeautifulSoup
+ 1327  pip install BeautifulSoup --user
+ 1328  sudo apt-install BeautifulSoup
+ 1329  sudo apt install BeautifulSoup
+ 1330  apt-get install python3-bs4
+ 1331  sudo apt-get install python3-bs4
+ 1332  sudo apt upgrade
+ 1333  sudo apt install urllib
+ 1334  pip install urllib
+ 1335  cd Desktop
+ 1336  python scrape.py
+ 1337  cd ~
+ 1338  pip install selenium
+ 1339  cd Desktop
+ 1340  python scrape.py
+ 1341  pip install requests
+ 1342  python scrape.py
+ 1343  pip install scrapy
+ 1344  pip install scrapy --user
+ 1345  mkdir brickset-scraper
+ 1346  cd brickset-scraper
+ 1347  touch scraper.py
+ 1348  scrapy runspider scraper.py
+ 1349  scrapy runspider scrapy2.py
+ 1350  scrapy runspider scraper2.py
+ 1351  cd brickset-scraper
+ 1352  scrapy runspider scraper2.py
+ 1353  scrapy crawl LegoSpider -o legoset.csv
+ 1354  scrapy runspider LegoSpider -o legoset.csv
+ 1355  scrapy crawl scraper2.py -o legoset.csv
+ 1356  scrapy runspider scraper2.py -o legoset.csv
+ 1357  jupyter notebook
+ 1358  cd Desktop/dashboard
+ 1359  python app.py
+ 1360  cd ~ 
+ 1361  pip install pandas --upgrade
+ 1362  jupyter notebook
+ 1363  cd Desktop/dashboard
+ 1364  python app.py
+ 1365  cd ~
+ 1366  cd brickset-scraper
+ 1367  git clone https://github.com/LordeUnicorn/LegoScraper.git
+ 1368  cd LegoScraper
+ 1369  git add .
+ 1370  git commit -m 'In Progress'
+ 1371  git push
+ 1372  jupyter notebook
+ 1373  cd Desktop/dashboard
+ 1374  python app.py
+ 1375  pip install regex
+ 1376  pip install regex --user
+ 1377  cd ~
+ 1378  cd Desktop/dashboard
+ 1379  cd Dashboard
+ 1380  cd dashboard
+ 1381  git add .
+ 1382  git commit -m 'Complete'
+ 1383  git push
+ 1384  CD BRICKSET_SCRAPER
+ 1385  cd brickset_scraper
+ 1386  cd brickset-scraper
+ 1387  scrapy runspider scraper2.py
+ 1388  scrapy runspider LegoSpider -o house.csv
+ 1389  scrapy runspider legoSpider -o house.csv
+ 1390  scrapy runspider scraper2.py -o house.csv
+ 1391  scrapy runspider scraper2.py
+ 1392  jupyter notebook
+ 1393  pip install sklearn --user
+ 1394  pip install statsmodels --user
+ 1395  jupyter notebook
+ 1396  jupyterlab
+ 1397  jupyter lab
+ 1398  pip install jupyterlab --user
+ 1399  sudo apt get install
+ 1400  sudo apt-get install dnsmasq-base
+ 1401  pip install chart_studio.plotly
+ 1402  pip install chart_studio.plotly --user
+ 1403  pip install chart_studio --user
+ 1404  pip install cufflinks --user
+ 1405  sudo gedit /etc/NetworkManager/system-connections/wifi-hotspot
+ 1406  sudo apt install gedit
+ 1407  sudo apt update && upgrade
+ 1408  sudo apt install gedit
+ 1409  apt --fix-broken install
+ 1410  sudo vim /etc/NetworkManager/system-connections/wifi-hotspot
+ 1411  sudo cat /etc/NetworkManager/system-connections/wifi-hotspot
+ 1412  cd Desktop/LinearRegression
+ 1413  git add .
+ 1414  git clone https://github.com/LordeUnicorn/LinearRegression.git
+ 1415  git add .
+ 1416  git commit -m 'In progress'
+ 1417  cd LinearRegression
+ 1418  git add .
+ 1419  git commit -m 'Complete'
+ 1420  git push
+ 1421  jupyter lab
+ 1422  reboot
+ 1423  cd Desktop/LinearRegression/LinearRegression
+ 1424  git add .
+ 1425  git commit -m 'Complete'
+ 1426  git push
+ 1427  git pull
+ 1428  git add .
+ 1429  git push
+ 1430  cd ~
+ 1431  git --config
+ 1432  git config
+ 1433  git config --global
+ 1434  git config -l
+ 1435  git config user.name "LordeUnicorn"
+ 1436  cd Desktop/LinearRegression/LinearRegression
+ 1437  git config user.name "LordeUnicorn"
+ 1438  git congif -l
+ 1439  git config -l
+ 1440  git config user.email "milpontia.ngwenya@umuzi.org"
+ 1441  git config -l
+ 1442  cd ~
+ 1443  git config -l
+ 1444  git config user.name "LordeUnicorn"
+ 1445  cd Desktop/LinearRegression/LinearRegression
+ 1446  git config --global user.name "LordeUnicorn"
+ 1447  git config --global user.email "milpontia.ngwenya@umuzi.org"
+ 1448  cd ~
+ 1449  git config -l
+ 1450  cd Desktop/LinearRegression/LinearRegression
+ 1451  git add .
+ 1452  git commit -m 'Complete'
+ 1453  cd .
+ 1454  cd /
+ 1455  cd DEsktop/LinearRegression
+ 1456  cd Desktop/LinearRegression
+ 1457  cd Desktop
+ 1458  cd ~
+ 1459  cd Desktop/LinearRegression
+ 1460  cd LinearRegression
+ 1461  git add .
+ 1462  git commit -m 'Complete'
+ 1463  cd /.
+ 1464  cd ~
+ 1465  cd Desktop/LinearRegression
+ 1466  git clone https://github.com/LordeUnicorn/LinearRegression.git
+ 1467  git add .
+ 1468  git commit -m 'Complete'
+ 1469  cd LinearRegression
+ 1470  git add .
+ 1471  git commit -m 'Complete'
+ 1472  git add .
+ 1473  git commit -m 'Complete'
+ 1474  git push
+ 1475  netstat
+ 1476  ipconfig
+ 1477  ifconfig
+ 1478  jupyter lab
+ 1479  pip install postgresql
+ 1480  pip install postgresql --user
+ 1481  apt-get install postgresql-11
+ 1482  sudo apt-get install postgresql-11
+ 1483  sudo su -
+ 1484  jupyter notebook
+ 1485  jupyter notebook
+ 1486  jupyter lab
+ 1487  cd Desktop/mlr
+ 1488  fit clone https://github.com/LordeUnicorn/Multivariate_Linear_Regression.git
+ 1489  git clone https://github.com/LordeUnicorn/Multivariate_Linear_Regression.git
+ 1490  cd Multivariate_Linear_Regression
+ 1491  git add .
+ 1492  git commit -m 'In Progress'
+ 1493  git config --global user.name "LordeUnicorn"
+ 1494  git config --global user.email "milpontia.ngwenya@umuzi.org"
+ 1495  git push
+ 1496  cd ~
+ 1497  cd Desktop/Dice
+ 1498  cd Desktop
+ 1499  git clone https://github.com/LordeUnicorn/dice.git
+ 1500  cd dice
+ 1501  python app.py
+ 1502  python dicePoker.py 
+ 1503  cd Desktop
+ 1504  git clone https://github.com/LordeUnicorn/milpontiangwenya.git
+ 1505  cd ~
+ 1506  pip install cookiecutter
+ 1507  jupyter lab
+ 1508  pip install yellowbrick
+ 1509  cd Desktop
+ 1510  cd mlr
+ 1511  cd Multivariate_Linear_rEGRESSION
+ 1512  cd Multivariate_Linear_Regression
+ 1513  git add .
+ 1514  git commit -m 'In Progress'
+ 1515  git push
+ 1516  jupyter lab
+ 1517  cd Desktop/mlr/MultivariateLinearRegression
+ 1518  cd Desktop/mlr/Multivariate_Linear_Regression
+ 1519  git add .
+ 1520  git commit -m 'Complete'
+ 1521  git push
+ 1522  jupyter lab
+ 1523  cd Desktop
+ 1524  git clone https://github.com/Umuzi-org/candidate_recommender.git
+ 1525  cd ~
+ 1526  pip install requirements.txt
+ 1527  pwd
+ 1528  cd Desktop/candidate_recommender/
+ 1529  git pull
+ 1530  ls
+ 1531  pip install xlrd
+ 1532  cd ~
+ 1533  sudo apt update
+ 1534  sudo apt upgrade
+ 1535  wget http://repo.mysql.com/mysql-apt-config_0.8.10-1_all.deb
+ 1536  sudo dpkg -i mysql-apt-config_0.8.10-1_all.deb
+ 1537  mysql-apt-config
+ 1538  sudo apt install mysql-server
+ 1539  apt --fix-broken install
+ 1540  cd Desktop/candidate_recommender/
+ 1541  git pull
+ 1542  cd ~
+ 1543  cd Desktop/MLR
+ 1544  CD dESKTOP/MLR
+ 1545  cd Desktop/mlr
+ 1546  cd Multivariate_Linear_Regression
+ 1547  git add .
+ 1548  git commit -m 'Complete'
+ 1549  git push
+ 1550  git pull
+ 1551  git add .
+ 1552  git commit -m 'Complete'
+ 1553  git push
+ 1554  jupyter lab
+ 1555  cd Desktop/candidate_recommender/
+ 1556  git pull
+ 1557  git add .
+ 1558  git commit -m 'Changed some columns names'
+ 1559  git push
+ 1560  git pull
+ 1561  git status
+ 1562  git add notebooks/data_wrangling.ipynb
+ 1563  git commit -m 'Changed some columns names'
+ 1564  git push
+ 1565  git log
+ 1566  git reset HEAD~2
+ 1567  GIT LOG
+ 1568  git log
+ 1569  git checkout -b column_name_change
+ 1570  git reset--hard <90e5b65>
+ 1571  git reset--hard<90e5b65>
+ 1572  git reset--hard 90e5b65
+ 1573  git add notebooks/data_wrangling.ipynb
+ 1574  git commit -m 'Changed some column names'
+ 1575  git push
+ 1576  git push --set-upstream origin column_name_change
+ 1577  git log
+ 1578  cd ~
+ 1579  pip install  dash_core_components
+ 1580  pip install dash_html_components
+ 1581  pip install pandas
+ 1582  pip install  plotly.graph_objects
+ 1583  pip install plotly
+ 1584  pip freeze > requirements.txt
+ 1585  requirements.txt
+ 1586  cat requiremnets.txt
+ 1587  cat requirements.txt
+ 1588  sudo pip3 install virtualenv 
+ 1589  virtualenv venv
+ 1590  source venv/bin/activate
+ 1591  pip install pandas==0.25.1
+ 1592  pip install dash-core-components==1.3.0 
+ 1593  pip install dash==1.2.0
+ 1594  pip install plotly
+ 1595  pip freeze > requirements.txt
+ 1596  cat requirements.txt
+ 1597  cd Desktop/dashboard
+ 1598  git add .
+ 1599  git commit -m 'Added requirements.txt file'
+ 1600  git push
+ 1601  git pull
+ 1602  git add .
+ 1603  git commit -m 'Added requirements.txt file'
+ 1604  git push
+ 1605  cd ~
+ 1606  cd Desktop/candidate_recommender/
+ 1607  jupyter lab
+ 1608  jupyter notebook
+ 1609  cd ~
+ 1610  cd Desktop/
+ 1611  git clone https://github.com/Umuzi-org/candidate_recommender.git
+ 1612  cd candidate_recommender/
+ 1613  jupyter lab
+ 1614  git log
+ 1615  pip install pylab
+ 1616  sudo apt-get install python-tk
+ 1617  git checkout column_name_change
+ 1618  git add .
+ 1619  git commit -m 'Fixed Loading Errors'
+ 1620  git push
+ 1621  cd ~
+ 1622  jupyter lab
+ 1623  cd Desktop//candidate_recommender/
+ 1624  jupyter notebook
+ 1625  jupyter notebook
+ 1626  pip install hash
+ 1627  pip install hashlib
+ 1628  pip install --upgrade setuptools
+ 1629  pip install hashlib
+ 1630  sudo pip install --upgrade setuptools
+ 1631  sudo pip install hashlib
+ 1632  sudo apt-get install libpcap-dev libpq-dev
+ 1633  sudo pip uninstall setuptools
+ 1634  pip install setuptools
+ 1635  sudo pip install hashlib
+ 1636  python --version
+ 1637  jupyter lab
+ 1638  jupyter notebook
+ 1639  cd Desktop/candidate_recommender/
+ 1640  git pull
+ 1641  sudo apt install youtube-dl
+ 1642  pip install youtube-dl
+ 1643  clear
+ 1644  sudo apt install youtube-dl
+ 1645  sudo apt --fix-broken install 
+ 1646  sudo apt --fix-broken install youtube-dl
+ 1647  apt --fix-broken install
+ 1648  sudo update && sudo apt upgrade
+ 1649  sudo apt update && sudo apt upgrade
+ 1650  sudo apt install libgstreamer1.0-0
+ 1651  sudo apt --fix-broken install
+ 1652  pip install youtube-d
+ 1653  pip install youtube-dl
+ 1654  youtube-dl https://www.youtube.com/watch?v=CKT5zlnw-MM
+ 1655  pip install ffmpeg
+ 1656  youtube-dl https://www.youtube.com/watch?v=D5TLZYcWJnw
+ 1657  youtube-dl https://www.youtube.com/watch?v=DQd7gyStwhg
+ 1658  youtube-dl https://www.youtube.com/watch?v=oNMV39sKyU4
+ 1659  youtube-dl https://www.youtube.com/watch?v=Gu1cgFVpNNw
+ 1660  youtube-dl https://www.youtube.com/watch?v=7yMoqAunF7U
+ 1661  youtube-dl https://www.youtube.com/watch?v=gaULkshOxiY
+ 1662  youtube-dl https://www.youtube.com/watch?v=_Lngf3J8vN4
+ 1663  youtube-dl https://www.youtube.com/watch?v=CHk0zYJGMao
+ 1664  youtube-dl https://www.youtube.com/watch?v=qLFEVzWIRsw
+ 1665  youtube-dl https://www.youtube.com/watch?v=DrPdBUlc4iY
+ 1666  youtube-dl https://www.youtube.com/watch?v=vm8qm5e-mcg
+ 1667  youtube-dl https://www.youtube.com/watch?v=THNQE7fTMWM
+ 1668  youtube-dl https://www.youtube.com/watch?v=H5yvhP-9mik
+ 1669  youtube-dl https://www.youtube.com/watch?v=Rf2pqa-tbm4
+ 1670  youtube-dl https://www.youtube.com/watch?v=6UcQxHYda54
+ 1671  youtube-dl https://www.youtube.com/watch?v=72H4umOjeI8
+ 1672  youtube-dl https://www.youtube.com/watch?v=USKzAj1dOq4
+ 1673  youtube-dl https://www.youtube.com/watch?v=4YEzQ6OGCNY
+ 1674  youtube-dl https://www.youtube.com/watch?v=PtfAfZi8xOc
+ 1675  youtube-dl https://www.youtube.com/watch?v=6g9jMjOm4bM
+ 1676  youtube-dl https://www.youtube.com/watch?v=TROA_0RxZmM
+ 1677  youtube-dl https://www.youtube.com/watch?v=lVoOmJr99dE
+ 1678  youtube-dl https://www.youtube.com/watch?v=khmykvs3JqY
+ 1679  youtube-dl https://www.youtube.com/watch?v=uHBTXZlWMbI
+ 1680  youtube-dl https://www.youtube.com/watch?v=eI36N9J4AzI
+ 1681  youtube-dl https://www.youtube.com/watch?v=6qMYmtOv-YQ
+ 1682  youtube-dl https://www.youtube.com/watch?v=Dbq-Csl4bFA
+ 1683  youtube-dl https://www.youtube.com/watch?v=jFoLGXKvgRA
+ 1684  youtube-dl https://www.youtube.com/watch?v=fIBlessDFNw
+ 1685  youtube-dl https://www.youtube.com/watch?v=oO3LCWGlgyc
+ 1686  youtube-dl https://www.youtube.com/watch?v=ydIDyZ0B47I
+ 1687  youtube-dl https://www.youtube.com/watch?v=4Q_DnCGap2c
+ 1688  youtube-dl https://www.youtube.com/watch?v=PAyAepcuyYU
+ 1689  youtube-dl https://www.youtube.com/watch?v=5bKt6gW1RzM
+ 1690  youtube-dl https://www.youtube.com/watch?v=ubfxi21M1vQ
+ 1691  youtube-dl https://www.youtube.com/watch?v=uOeGN7cvfkk
+ 1692  youtube-dl https://www.youtube.com/watch?v=WqtKgEEKRO0
+ 1693  youtube-dl https://www.youtube.com/watch?v=9fBpuF_omKI
+ 1694  youtube-dl https://www.youtube.com/watch?v=9zAwwujFsBE
+ 1695  jupyter notebook
+ 1696  cd Desktop/candidate_recommender/
+ 1697  git pull
+ 1698  jupyter notebook
+ 1699  jupyter notebook
+ 1700  youtube-dl https://www.youtube.com/watch?v=Gcj520qu2xI
+ 1701  youtube-dl https://www.youtube.com/watch?v=QO69Pb7ujSg
+ 1702  youtube-dl https://www.youtube.com/watch?v=iCXGeiBUGkA
+ 1703  youtube-dl https://www.youtube.com/watch?v=aFf45gF8L0I
+ 1704  youtube-dl https://www.youtube.com/watch?v=WgQOWXis2zc
+ 1705  youtube-dl https://www.youtube.com/watch?v=GCvy8VyRpVo
+ 1706  youtube-dl https://www.youtube.com/watch?v=5NCTTk2eFjE
+ 1707  youtube-dl https://www.youtube.com/watch?v=jxbMRLXHXdw
+ 1708  youtube-dl https://www.youtube.com/watch?v=vgg7AKt-HYY
+ 1709  youtube-dl https://www.youtube.com/watch?v=KQcLRMuqkvQ
+ 1710  youtube-dl https://www.youtube.com/watch?v=1e2lw9y5A5s
+ 1711  youtube-dl https://www.youtube.com/watch?v=jGe4GfO7FC0
+ 1712  youtube-dl https://www.youtube.com/watch?v=I1PDUqVgENI
+ 1713  youtube-dl https://www.youtube.com/watch?v=VQEH0-6x7q8
+ 1714  youtube-dl https://www.youtube.com/watch?v=9PcmEVRQejc
+ 1715  youtube-dl https://www.youtube.com/watch?v=kigWGJ_s9DQ
+ 1716  youtube-dl https://www.youtube.com/watch?v=rQJDEhlE-DY
+ 1717  youtube-dl https://www.youtube.com/watch?v=7o3hDRW072o
+ 1718  youtube-dl https://www.youtube.com/watch?v=2_9J8s4DN6w
+ 1719  youtube-dl https://www.youtube.com/watch?v=EFPbHRTIyvc
+ 1720  youtube-dl https://www.youtube.com/watch?v=MA97mnn7Sys
+ 1721  youtube-dl https://www.youtube.com/watch?v=2N0Utgsd3Is
+ 1722  youtube-dl https://www.youtube.com/watch?v=sYLjBdnxSJE
+ 1723  youtube-dl https://www.youtube.com/watch?v=s57jB-VVUWY
+ 1724  git config 
+ 1725  git config user.name
+ 1726  git config user.name 'name'
+ 1727  joy
+ 1728  joyful
+ 1729  ls
+ 1730  pwd
+ 1731  mkdir workspace
+ 1732  pwd
+ 1733  ls
+ 1734  cd
+ 1735  pwd
+ 1736  workspace
+ 1737  cd workspace
+ 1738  ls
+ 1739  mkdir README.md
+ 1740  ls
+ 1741  pwd
+ 1742  ls
+ 1743  pwd
+ 1744  ls
+ 1745  cp README.md CHANGELOG.md
+ 1746  ls
+ 1747  cp README.md/ README.md
+ 1748  chmod 777 README.md/
+ 1749  cp README.md CHANGELOG.md
+ 1750  cp -p  README.md CHANGELOG.md
+ 1751  shls
+ 1752  exit
+ 1753  cp
+ 1754  ls
+ 1755  cd
+ 1756  cd workspace
+ 1757  ls
+ 1758  cp README.md yanga
+ 1759  pwd
+ 1760  clear
+ 1761  gsetting reset-recursively org.cinnamon
+ 1762  gsettings  reset-recursively org.cinnamon
+ 1763  gsettings  reset-recursively org.mate
+ 1764  # stty sane
+ 1765  ls
+ 1766  cd workspace
+ 1767  ls
+ 1768  cp README.md CHANGELOCK.md
+ 1769  clear
+ 1770  gsettings  reset-recursively org.matls
+ 1771  pwd
+ 1772  ls
+ 1773  rm README.md
+ 1774  mv README.md
+ 1775  --mv
+ 1776  mv --help
+ 1777  clear
+ 1778  touch README.md CHANGELOG.md
+ 1779  ls
+ 1780  pwd
+ 1781  cd..
+ 1782  clear
+ 1783  cd/
+ 1784  cd~
+ 1785  cd ~
+ 1786  clear
+ 1787  cd /workspace/README.md
+ 1788  cd workspace /
+ 1789  cd workspace'
+ 1790  cd
+ 1791  cd /
+ 1792   sttp
+ 1793  cd desktop
+ 1794  cd Desktop
+ 1795  ls
+ 1796  cd workspace
+ 1797  ls
+ 1798  cp README.md
+ 1799  pwd
+ 1800  cd workspace
+ 1801  touch exercise.md
+ 1802  ls
+ 1803  cp -i exercise.md
+ 1804  cp --i exercise.md
+ 1805  clear
+ 1806  ls
+ 1807  cd /
+ 1808  ls
+ 1809  mv../excersize/tmp
+ 1810  mv excersize ~
+ 1811  cd ..
+ 1812  ls
+ 1813  pwd
+ 1814  cd desktop
+ 1815  cd workspace
+ 1816  ls
+ 1817  cd home
+ 1818  ls
+ 1819  recruit
+ 1820  clear
+ 1821  cd ..
+ 1822  clear
+ 1823  ls
+ 1824  clear
+ 1825  sudo updatedb
+ 1826  pwd
+ 1827  ls 
+ 1828  cp README.md
+ 1829  cp  README.md
+ 1830  locate pdf
+ 1831  clear
+ 1832  find pdf
+ 1833  find ./pdf
+ 1834  find . -pdf
+ 1835  locate pdf
+ 1836  locate pdf > PDF_results
+ 1837  clear
+ 1838  find ~mmin1
+ 1839  find . -mtime -1
+ 1840  find . -mtime 
+ 1841  find .
+ 1842  pwd
+ 1843  find
+ 1844  sudo chown -R $USER ~
+ 1845  find .
+ 1846  find . -mtime -1
+ 1847  find . -mtime -60
+ 1848  nano yanga.txt
+ 1849  nano my_bio.md
+ 1850  ls
+ 1851  nano my_bio.md
+ 1852  ls
+ 1853  nano my_bio.md
+ 1854  ls
+ 1855  mkdir my_files
+ 1856* 
+ 1857  sudo  mv my_bio.md /my_files
+ 1858  ls
+ 1859  cd my_files
+ 1860  ls
+ 1861  cd ../
+ 1862  ls
+ 1863  locate my_bio.md
+ 1864  sudo updatedb
+ 1865  locate my_bio.md
+ 1866  cd my_files
+ 1867  ls
+ 1868  nano my_bio.md
+ 1869  ls
+ 1870  cd ../
+ 1871  ls
+ 1872  rmdir my_files
+ 1873  ls
+ 1874  nano my_bio.md
+ 1875  ls
+ 1876  mkdir my_files
+ 1877  ls
+ 1878  mv /root/my_bio.md /root/my_files
+ 1879  mv /root/my_bio.md ~  /root/my_files
+ 1880  sudo  mv /root/my_bio.md ~  /root/my_files
+ 1881  sudo   mv /root/my_bio.md /root/my_files
+ 1882  ls
+ 1883  mv my_bio ./my_files/
+ 1884  mv -t  my_bio ./my_files/
+ 1885  ls
+ 1886  cd my_bio.md
+ 1887  cd
+ 1888  ls
+ 1889  cd my_bio.md
+ 1890  mv -i my_bio ./my_files
+ 1891  rmdir my_bio.md
+ 1892  rm my_bio.md
+ 1893  ls
+ 1894  cat > my_bio.md
+ 1895  ls
+ 1896  mv my_bio.md ./my_files
+ 1897  ls
+ 1898  cd my_file
+ 1899  cd my_files
+ 1900  ls
+ 1901  cd ..
+ 1902  find . -mtime -1
+ 1903  clear
+ 1904  pwd
+ 1905  mkdir
+ 1906  mkdir git-basic-exercises
+ 1907  cd git-basic-exercises
+ 1908  ls -a
+ 1909  git init
+ 1910  ls -a
+ 1911  git status
+ 1912  git log
+ 1913  git add
+ 1914  git add README.md
+ 1915  clear
+ 1916  ls
+ 1917  ls -a
+ 1918  git status
+ 1919  touch README.md
+ 1920  ls -a
+ 1921  git status
+ 1922  git log
+ 1923  git add
+ 1924  git add README.md
+ 1925  git status
+ 1926  git rm --README.md
+ 1927  ls
+ 1928  git log
+ 1929  ls
+ 1930  git status
+ 1931  git diff README.md
+ 1932  git diff
+ 1933  git add
+ 1934  git add README.md
+ 1935  git status
+ 1936  git commit -m "initial commit"
+ 1937  git log
+ 1938  q
+ 1939  nano README.md
+ 1940  cat README.md
+ 1941  git stats
+ 1942  git status
+ 1943  git commit -m "second commit"
+ 1944  git add
+ 1945  git add README.md
+ 1946  git status
+ 1947  git commit - "second commit"
+ 1948  git commit -m "second commit"
+ 1949  nano README.md
+ 1950  git status
+ 1951  git add README.md
+ 1952  git commit -m "third commit"
+ 1953  git log
+ 1954  q
+ 1955  git checkout
+ 1956  commit 484c3e11f42cdc9ea11ab445d489d401b2a70a1b
+ 1957  git checkout
+ 1958  git checkout484c3e11f42cdc9ea11ab445d489d401b2a70a1b
+ 1959  git checkout 484c3e11f42cdc9ea11ab445d489d401b2a70a1b
+ 1960  cat README.md
+ 1961  git checkout master
+ 1962  cat README.md
+ 1963  git branch
+ 1964  git milkshake-flavours
+ 1965  ls
+ 1966  git branch
+ 1967  ls
+ 1968  nano milkshakes.md
+ 1969  git status
+ 1970  git add milkshakes.md
+ 1971  git status
+ 1972  git commit -m "added initial flavours"
+ 1973  git log
+ 1974  git branch
+ 1975  git checkout master
+ 1976  git branch history
+ 1977  git checkout history
+ 1978  git log
+ 1979  q
+ 1980  history > history.txt
